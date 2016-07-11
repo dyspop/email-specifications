@@ -32,3 +32,6 @@ have different results across browsers depending on other attributes present on 
 * Styles prefixing. This follows the HTML guideline for attributes prefixing. But there's allow cases were prefixing needs to happen in CSS. For example, a webmail should prefix animations @keyframes declarations names (in order to avoid a malicious email to use same names as in the webmail's UI).
 
 ## MIME
+
+## Clients
+While it is impossible to account for every view context, it may be worth while to take into account their concerns, or to document the status of their support.
