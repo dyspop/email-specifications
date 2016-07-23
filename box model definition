@@ -14,11 +14,13 @@ display:
 
 overflow:
 	hidden
+	visible
 	auto
 	inherit
 
 overflow-x:
 	hidden
+	visible
 	auto
 	inherit
 
@@ -31,7 +33,11 @@ border-radious:
 	0
 	none
 	inherit
-border:
+border
+border-bottom
+border-top
+border-left
+border-right:
 	0
 	none
 	inherit
@@ -65,3 +71,14 @@ min-height
 max-height:
 	0
 	inherit
+
+float:
+	left
+	right
+	none
+	
+clear:
+	left
+	right
+	both
+	none
