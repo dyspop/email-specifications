@@ -27,6 +27,10 @@ overflow-y:
 	auto
 	inherit
 
+border-radious:
+	0
+	none
+	inherit
 border:
 	0
 	none
