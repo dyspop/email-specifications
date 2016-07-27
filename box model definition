@@ -1,0 +1,84 @@
+Email Box Model Definiton
+
+box-sizing:
+	border-box
+	padding-box
+	content-box
+	inherit
+
+display:
+	block
+	inline-block
+	inline
+	inherit
+
+overflow:
+	hidden
+	visible
+	auto
+	inherit
+
+overflow-x:
+	hidden
+	visible
+	auto
+	inherit
+
+overflow-y:
+	hidden
+	auto
+	inherit
+
+border-radious:
+	0
+	none
+	inherit
+border
+border-bottom
+border-top
+border-left
+border-right:
+	0
+	none
+	inherit
+
+margin
+margin-bottom
+margin-top
+margin-left
+margin-right:
+	0
+	none
+	inherit
+
+padding
+padding-bottom
+padding-top
+padding-left
+padding-right:
+	0
+	none
+	inherit
+
+width
+max-width
+min-width:
+	0
+	inherit
+
+height
+min-height
+max-height:
+	0
+	inherit
+
+float:
+	left
+	right
+	none
+	
+clear:
+	left
+	right
+	both
+	none
